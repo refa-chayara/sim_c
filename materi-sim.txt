@@ -3,3 +3,7 @@ materi pertemuan pertama sim:
 -pendahuluan
 -review mk basis data
 -review mk statistika dasar
+
+materi pertemuan kedua sim:
+-koneksi data dari sql ke r
+-visualisasi data
